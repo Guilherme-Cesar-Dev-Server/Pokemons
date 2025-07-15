@@ -187,8 +187,61 @@
   },
   {
     "id": "0032",
-    "nome": "Nidorino",
+    "nome": "Nidoran",
     "tipos": ["Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png"
+  },
+  {
+    "id": "0033",
+    "nome": "Nidorino",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png"
+  },
+  {
+    "id": "0034",
+    "nome": "Nidoking",
+    "tipos": ["Poison", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png"
+  },
+  {
+    "id": "0035",
+    "nome": "Clefairy",
+    "tipos": ["Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png"
+  },
+  {
+    "id": "0036",
+    "nome": "Clefable",
+    "tipos": ["Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png"
+  },
+  {
+    "id": "0037",
+    "nome": "Vulpix",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png"
+  },  {
+    "id": "0038",
+    "nome": "Ninetales",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png"
+  },
+  {
+    "id": "0039",
+    "nome": "Jigglypuff",
+    "tipos": ["Normal","Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png"
+  },
+  {
+    "id": "0040",
+    "nome": "Wigglytuff",
+    "tipos": ["Normal","Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png"
+  },
+  {
+    "id": "0000",
+    "nome": "",
+    "tipos": [""],
+    "imagem": ""
   }
 ]
