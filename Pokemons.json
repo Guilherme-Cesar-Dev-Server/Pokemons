@@ -15,110 +15,1789 @@
     "id": "0003",
     "nome": "Venusaur",
     "tipos": ["Grass", "Poison"],
-    "imagem": "../img/pokemons/003.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
   },
   {
     "id": "0004",
     "nome": "Charmander",
     "tipos": ["Fire"],
-    "imagem": "../img/pokemons/004.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
   },
   {
     "id": "0005",
     "nome": "Charmeleon",
     "tipos": ["Fire"],
-    "imagem": "../img/pokemons/005.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
   },
   {
     "id": "0006",
     "nome": "Charizard",
-    "tipos": ["Fire","Flying"],
-    "imagem": "../img/pokemons/006.png"
+    "tipos": ["Fire", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
   },
   {
     "id": "0007",
     "nome": "Squirtle",
     "tipos": ["Water"],
-    "imagem": "../img/pokemons/007.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
   },
   {
     "id": "0008",
     "nome": "Wartortle",
     "tipos": ["Water"],
-    "imagem": "../img/pokemons/008.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
   },
   {
     "id": "0009",
     "nome": "Blastoise",
     "tipos": ["Water"],
-    "imagem": "../img/pokemons/009.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
   },
   {
     "id": "0010",
     "nome": "Caterpie",
     "tipos": ["Bug"],
-    "imagem": "../img/pokemons/010.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png"
   },
   {
     "id": "0011",
     "nome": "Metapod",
     "tipos": ["Bug"],
-    "imagem": "../img/pokemons/011.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png"
   },
   {
     "id": "0012",
     "nome": "Butterfree",
-    "tipos": ["Bug","Flying"],
-    "imagem": "../img/pokemons/012.png"
+    "tipos": ["Bug", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png"
   },
-
   {
     "id": "0013",
     "nome": "Weedle",
-    "tipos": ["Bug","Poison"],
-    "imagem": "../img/pokemons/013.png"
+    "tipos": ["Bug", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png"
   },
   {
     "id": "0014",
     "nome": "Kakuna",
-    "tipos": ["Bug","Poison"],
-    "imagem": "../img/pokemons/014.png"
+    "tipos": ["Bug", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png"
   },
   {
     "id": "0015",
     "nome": "Beedrill",
-    "tipos": ["Bug","Poison"],
-    "imagem": "../img/pokemons/015.png"
+    "tipos": ["Bug", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png"
   },
   {
     "id": "0016",
     "nome": "Pidgey",
-    "tipos": ["Normal","Flying"],
-    "imagem": "../img/pokemons/016.png"
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png"
   },
-
   {
     "id": "0017",
     "nome": "Pidgeotto",
-    "tipos": ["Normal","Flying"],
-    "imagem": "../img/pokemons/017.png"
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png"
   },
   {
     "id": "0018",
     "nome": "Pidgeot",
-    "tipos": ["Normal","Flying"],
-    "imagem": "../img/pokemons/018.png"
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png"
   },
   {
-    "id": "0633",
-    "nome": "Deino",
-    "tipos": ["Dark","Dragon"],
-    "imagem": "../img/pokemons/633.png"
+    "id": "0019",
+    "nome": "Rattata",
+    "tipos": ["Normal"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png"
   },
   {
-    "id": "0000",
-    "nome": "TESTE",
-    "tipos": [""],
-    "imagem": "../img/pokemons/001.png"
+    "id": "0020",
+    "nome": "Raticate",
+    "tipos": ["Normal"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png"
+  },
+  {
+    "id": "0021",
+    "nome": "Spearow",
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png"
+  },
+  {
+    "id": "0022",
+    "nome": "Fearow",
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png"
+  },
+  {
+    "id": "0023",
+    "nome": "Ekans",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png"
+  },
+  {
+    "id": "0024",
+    "nome": "Arbok",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png"
+  },
+  {
+    "id": "0025",
+    "nome": "Pikachu",
+    "tipos": ["Electric"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png"
+  },
+  {
+    "id": "0026",
+    "nome": "Raichu",
+    "tipos": ["Electric"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png"
+  },
+  {
+    "id": "0027",
+    "nome": "Sandshrew",
+    "tipos": ["Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png"
+  },
+  {
+    "id": "0028",
+    "nome": "Sandslash",
+    "tipos": ["Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png"
+  },
+  {
+    "id": "0029",
+    "nome": "Nidoran",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png"
+  },
+  {
+    "id": "0030",
+    "nome": "Nidorina",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png"
+  },
+  {
+    "id": "0031",
+    "nome": "Nidoqueen",
+    "tipos": ["Poison", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png"
+  },
+  {
+    "id": "0032",
+    "nome": "Nidorino",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png"
+  },
+  {
+    "id": "0033",
+    "nome": "Nidoking",
+    "tipos": ["Poison", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png"
+  },
+  {
+    "id": "0034",
+    "nome": "Clefairy",
+    "tipos": ["Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png"
+  },
+  {
+    "id": "0035",
+    "nome": "Clefable",
+    "tipos": ["Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png"
+  },
+  {
+    "id": "0036",
+    "nome": "Vulpix",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png"
+  },
+  {
+    "id": "0037",
+    "nome": "Ninetales",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png"
+  },
+  {
+    "id": "0038",
+    "nome": "Jigglypuff",
+    "tipos": ["Normal", "Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png"
+  },
+  {
+    "id": "0039",
+    "nome": "Wigglytuff",
+    "tipos": ["Normal", "Fairy"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png"
+  },
+  {
+    "id": "0040",
+    "nome": "Zubat",
+    "tipos": ["Poison", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png"
+  },
+  {
+    "id": "0041",
+    "nome": "Golbat",
+    "tipos": ["Poison", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png"
+  },
+  {
+    "id": "0042",
+    "nome": "Oddish",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png"
+  },
+  {
+    "id": "0043",
+    "nome": "Gloom",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png"
+  },
+  {
+    "id": "0044",
+    "nome": "Vileplume",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png"
+  },
+  {
+    "id": "0045",
+    "nome": "Paras",
+    "tipos": ["Bug", "Grass"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png"
+  },
+  {
+    "id": "0046",
+    "nome": "Parasect",
+    "tipos": ["Bug", "Grass"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png"
+  },
+  {
+    "id": "0047",
+    "nome": "Venonat",
+    "tipos": ["Bug", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png"
+  },
+  {
+    "id": "0048",
+    "nome": "Venomoth",
+    "tipos": ["Bug", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png"
+  },
+  {
+    "id": "0049",
+    "nome": "Diglett",
+    "tipos": ["Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png"
+  },
+  {
+    "id": "0050",
+    "nome": "Dugtrio",
+    "tipos": ["Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png"
+  },
+  {
+    "id": "0051",
+    "nome": "Persian",
+    "tipos": ["Normal"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png"
+  },
+  {
+    "id": "0052",
+    "nome": "Psyduck",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/052.png"
+  },
+  {
+    "id": "0053",
+    "nome": "Golduck",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/053.png"
+  },
+  {
+    "id": "0054",
+    "nome": "Mankey",
+    "tipos": ["Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png"
+  },
+  {
+    "id": "0055",
+    "nome": "Primeape",
+    "tipos": ["Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png"
+  },
+  {
+    "id": "0056",
+    "nome": "Growlithe",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png"
+  },
+  {
+    "id": "0057",
+    "nome": "Arcanine",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png"
+  },
+  {
+    "id": "0058",
+    "nome": "Poliwag",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png"
+  },
+  {
+    "id": "0059",
+    "nome": "Poliwhirl",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png"
+  },
+  {
+    "id": "0060",
+    "nome": "Poliwrath",
+    "tipos": ["Water", "Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png"
+  },
+  {
+    "id": "0061",
+    "nome": "Abra",
+    "tipos": ["Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png"
+  },
+  {
+    "id": "0062",
+    "nome": "Kadabra",
+    "tipos": ["Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png"
+  },
+  {
+    "id": "0063",
+    "nome": "Alakazam",
+    "tipos": ["Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png"
+  },
+  {
+    "id": "0064",
+    "nome": "Machop",
+    "tipos": ["Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png"
+  },
+  {
+    "id": "0065",
+    "nome": "Machoke",
+    "tipos": ["Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png"
+  },
+  {
+    "id": "0066",
+    "nome": "Machamp",
+    "tipos": ["Fighting"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png"
+  },
+  {
+    "id": "0067",
+    "nome": "Bellsprout",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png"
+  },
+  {
+    "id": "0068",
+    "nome": "Weepinbell",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png"
+  },
+  {
+    "id": "0069",
+    "nome": "Victreebel",
+    "tipos": ["Grass", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png"
+  },
+  {
+    "id": "0070",
+    "nome": "Tentacool",
+    "tipos": ["Water", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png"
+  },
+  {
+    "id": "0071",
+    "nome": "Tentacruel",
+    "tipos": ["Water", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png"
+  },
+  {
+    "id": "0072",
+    "nome": "Geodude",
+    "tipos": ["Rock", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png"
+  },
+  {
+    "id": "0073",
+    "nome": "Graveler",
+    "tipos": ["Rock", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png"
+  },
+  {
+    "id": "0074",
+    "nome": "Golem",
+    "tipos": ["Rock", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png"
+  },
+  {
+    "id": "0075",
+    "nome": "Ponyta",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png"
+  },
+  {
+    "id": "0076",
+    "nome": "Rapidash",
+    "tipos": ["Fire"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png"
+  },
+  {
+    "id": "0077",
+    "nome": "Slowpoke",
+    "tipos": ["Water", "Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png"
+  },
+  {
+    "id": "0078",
+    "nome": "Slowbro",
+    "tipos": ["Water", "Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png"
+  },
+  {
+    "id": "0079",
+    "nome": "Magnemite",
+    "tipos": ["Electric", "Steel"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png"
+  },
+  {
+    "id": "0080",
+    "nome": "Magneton",
+    "tipos": ["Electric", "Steel"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png"
+  },
+  {
+    "id": "0081",
+    "nome": "Farfetch’d",
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png"
+  },
+  {
+    "id": "0082",
+    "nome": "Doduo",
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png"
+  },
+  {
+    "id": "0083",
+    "nome": "Dodrio",
+    "tipos": ["Normal", "Flying"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png"
+  },
+  {
+    "id": "0084",
+    "nome": "Seel",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png"
+  },
+  {
+    "id": "0085",
+    "nome": "Dewgong",
+    "tipos": ["Water", "Ice"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png"
+  },
+  {
+    "id": "0086",
+    "nome": "Grimer",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png"
+  },
+  {
+    "id": "0087",
+    "nome": "Muk",
+    "tipos": ["Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png"
+  },
+  {
+    "id": "0088",
+    "nome": "Shellder",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png"
+  },
+  {
+    "id": "0089",
+    "nome": "Cloyster",
+    "tipos": ["Water", "Ice"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png"
+  },
+  {
+    "id": "0090",
+    "nome": "Gastly",
+    "tipos": ["Ghost", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png"
+  },
+  {
+    "id": "0091",
+    "nome": "Haunter",
+    "tipos": ["Ghost", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png"
+  },
+  {
+    "id": "0092",
+    "nome": "Gengar",
+    "tipos": ["Ghost", "Poison"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png"
+  },
+  {
+    "id": "0093",
+    "nome": "Onix",
+    "tipos": ["Rock", "Ground"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png"
+  },
+  {
+    "id": "0094",
+    "nome": "Drowzee",
+    "tipos": ["Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png"
+  },
+  {
+    "id": "0095",
+    "nome": "Hypno",
+    "tipos": ["Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png"
+  },
+  {
+    "id": "0096",
+    "nome": "Krabby",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png"
+  },
+  {
+    "id": "0097",
+    "nome": "Kingler",
+    "tipos": ["Water"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png"
+  },
+  {
+    "id": "0098",
+    "nome": "Voltorb",
+    "tipos": ["Electric"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png"
+  },
+  {
+    "id": "0099",
+    "nome": "Electrode",
+    "tipos": ["Electric"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png"
+  },
+  {
+    "id": "0100",
+    "nome": "Exeggcute",
+    "tipos": ["Grass", "Psychic"],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png"
+  },
+  {
+    "id": "0101",
+    "nome": "Exeggutor",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png"
+  },
+  {
+    "id": "0102",
+    "nome": "Cubone",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png"
+  },
+  {
+    "id": "0103",
+    "nome": "Marowak",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png"
+  },
+  {
+    "id": "0104",
+    "nome": "Hitmonlee",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png"
+  },
+  {
+    "id": "0105",
+    "nome": "Hitmonchan",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png"
+  },
+  {
+    "id": "0106",
+    "nome": "Lickitung",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png"
+  },
+  {
+    "id": "0107",
+    "nome": "Koffing",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png"
+  },
+  {
+    "id": "0108",
+    "nome": "Weezing",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png"
+  },
+  {
+    "id": "0109",
+    "nome": "Rhyhorn",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png"
+  },
+  {
+    "id": "0110",
+    "nome": "Rhydon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png"
+  },
+  {
+    "id": "0111",
+    "nome": "Chansey",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png"
+  },
+  {
+    "id": "0112",
+    "nome": "Tangela",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png"
+  },
+  {
+    "id": "0113",
+    "nome": "Kangaskhan",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png"
+  },
+  {
+    "id": "0114",
+    "nome": "Horsea",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png"
+  },
+  {
+    "id": "0115",
+    "nome": "Seadra",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/115.png"
+  },
+  {
+    "id": "0116",
+    "nome": "Goldeen",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png"
+  },
+  {
+    "id": "0117",
+    "nome": "Seaking",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png"
+  },
+  {
+    "id": "0118",
+    "nome": "Staryu",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png"
+  },
+  {
+    "id": "0119",
+    "nome": "Starmie",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png"
+  },
+  {
+    "id": "0120",
+    "nome": "Mr. Mime",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png"
+  },
+  {
+    "id": "0121",
+    "nome": "Scyther",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png"
+  },
+  {
+    "id": "0122",
+    "nome": "Jynx",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png"
+  },
+  {
+    "id": "0123",
+    "nome": "Electabuzz",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png"
+  },
+  {
+    "id": "0124",
+    "nome": "Magmar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png"
+  },
+  {
+    "id": "0125",
+    "nome": "Pinsir",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png"
+  },
+  {
+    "id": "0126",
+    "nome": "Tauros",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png"
+  },
+  {
+    "id": "0127",
+    "nome": "Magikarp",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png"
+  },
+  {
+    "id": "0128",
+    "nome": "Gyarados",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128.png"
+  },
+  {
+    "id": "0129",
+    "nome": "Lapras",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png"
+  },
+  {
+    "id": "0130",
+    "nome": "Ditto",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png"
+  },
+  {
+    "id": "0131",
+    "nome": "Eevee",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png"
+  },
+  {
+    "id": "0132",
+    "nome": "Vaporeon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png"
+  },
+  {
+    "id": "0133",
+    "nome": "Jolteon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png"
+  },
+  {
+    "id": "0134",
+    "nome": "Flareon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png"
+  },
+  {
+    "id": "0135",
+    "nome": "Porygon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png"
+  },
+  {
+    "id": "0136",
+    "nome": "Omanyte",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png"
+  },
+  {
+    "id": "0137",
+    "nome": "Omastar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/137.png"
+  },
+  {
+    "id": "0138",
+    "nome": "Kabuto",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png"
+  },
+  {
+    "id": "0139",
+    "nome": "Kabutops",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png"
+  },
+  {
+    "id": "0140",
+    "nome": "Aerodactyl",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png"
+  },
+  {
+    "id": "0141",
+    "nome": "Snorlax",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png"
+  },
+  {
+    "id": "0142",
+    "nome": "Articuno",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png"
+  },
+  {
+    "id": "0143",
+    "nome": "Zapdos",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png"
+  },
+  {
+    "id": "0144",
+    "nome": "Moltres",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png"
+  },
+  {
+    "id": "0145",
+    "nome": "Dratini",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png"
+  },
+  {
+    "id": "0146",
+    "nome": "Dragonair",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png"
+  },
+  {
+    "id": "0147",
+    "nome": "Dragonite",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png"
+  },
+  {
+    "id": "0148",
+    "nome": "Mewtwo",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png"
+  },
+  {
+    "id": "0149",
+    "nome": "Mew",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png"
+  },
+  {
+    "id": "0150",
+    "nome": "Chikorita",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png"
+  },
+  {
+    "id": "0151",
+    "nome": "Bayleef",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png"
+  },
+  {
+    "id": "0152",
+    "nome": "Meganium",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/152.png"
+  },
+  {
+    "id": "0153",
+    "nome": "Cyndaquil",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/153.png"
+  },
+  {
+    "id": "0154",
+    "nome": "Quilava",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/154.png"
+  },
+  {
+    "id": "0155",
+    "nome": "Typhlosion",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png"
+  },
+  {
+    "id": "0156",
+    "nome": "Totodile",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/156.png"
+  },
+  {
+    "id": "0157",
+    "nome": "Croconaw",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/157.png"
+  },
+  {
+    "id": "0158",
+    "nome": "Feraligatr",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/158.png"
+  },
+  {
+    "id": "0159",
+    "nome": "Sentret",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/159.png"
+  },
+  {
+    "id": "0160",
+    "nome": "Furret",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/160.png"
+  },
+  {
+    "id": "0161",
+    "nome": "Hoothoot",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/161.png"
+  },
+  {
+    "id": "0162",
+    "nome": "Noctowl",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/162.png"
+  },
+  {
+    "id": "0163",
+    "nome": "Ledyba",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/163.png"
+  },
+  {
+    "id": "0164",
+    "nome": "Ledian",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/164.png"
+  },
+  {
+    "id": "0165",
+    "nome": "Spinarak",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/165.png"
+  },
+  {
+    "id": "0166",
+    "nome": "Ariados",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/166.png"
+  },
+  {
+    "id": "0167",
+    "nome": "Crobat",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/167.png"
+  },
+  {
+    "id": "0168",
+    "nome": "Chinchou",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/168.png"
+  },
+  {
+    "id": "0169",
+    "nome": "Lanturn",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/169.png"
+  },
+  {
+    "id": "0170",
+    "nome": "Pichu",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/170.png"
+  },
+  {
+    "id": "0171",
+    "nome": "Cleffa",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/171.png"
+  },
+  {
+    "id": "0172",
+    "nome": "Igglybuff",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/172.png"
+  },
+  {
+    "id": "0173",
+    "nome": "Togepi",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/173.png"
+  },
+  {
+    "id": "0174",
+    "nome": "Togetic",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/174.png"
+  },
+  {
+    "id": "0175",
+    "nome": "Natu",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/175.png"
+  },
+  {
+    "id": "0176",
+    "nome": "Xatu",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/176.png"
+  },
+  {
+    "id": "0177",
+    "nome": "Mareep",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/177.png"
+  },
+  {
+    "id": "0178",
+    "nome": "Flaaffy",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/178.png"
+  },
+  {
+    "id": "0179",
+    "nome": "Ampharos",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/179.png"
+  },
+  {
+    "id": "0180",
+    "nome": "Bellossom",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/180.png"
+  },
+  {
+    "id": "0181",
+    "nome": "Marill",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/181.png"
+  },
+  {
+    "id": "0182",
+    "nome": "Azumarill",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/182.png"
+  },
+  {
+    "id": "0183",
+    "nome": "Sudowoodo",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/183.png"
+  },
+  {
+    "id": "0184",
+    "nome": "Politoed",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/184.png"
+  },
+  {
+    "id": "0185",
+    "nome": "Hoppip",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/185.png"
+  },
+  {
+    "id": "0186",
+    "nome": "Skiploom",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/186.png"
+  },
+  {
+    "id": "0187",
+    "nome": "Jumpluff",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/187.png"
+  },
+  {
+    "id": "0188",
+    "nome": "Aipom",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/188.png"
+  },
+  {
+    "id": "0189",
+    "nome": "Sunkern",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/189.png"
+  },
+  {
+    "id": "0190",
+    "nome": "Sunflora",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/190.png"
+  },
+  {
+    "id": "0191",
+    "nome": "Yanma",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/191.png"
+  },
+  {
+    "id": "0192",
+    "nome": "Wooper",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/192.png"
+  },
+  {
+    "id": "0193",
+    "nome": "Quagsire",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/193.png"
+  },
+  {
+    "id": "0194",
+    "nome": "Espeon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/194.png"
+  },
+  {
+    "id": "0195",
+    "nome": "Umbreon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/195.png"
+  },
+  {
+    "id": "0196",
+    "nome": "Murkrow",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/196.png"
+  },
+  {
+    "id": "0197",
+    "nome": "Slowking",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/197.png"
+  },
+  {
+    "id": "0198",
+    "nome": "Misdreavus",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/198.png"
+  },
+  {
+    "id": "0199",
+    "nome": "Unown",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/199.png"
+  },
+  {
+    "id": "0200",
+    "nome": "Wobbuffet",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/200.png"
+  },
+  {
+    "id": "0201",
+    "nome": "Girafarig",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/201.png"
+  },
+  {
+    "id": "0202",
+    "nome": "Pineco",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/202.png"
+  },
+  {
+    "id": "0203",
+    "nome": "Forretress",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/203.png"
+  },
+  {
+    "id": "0204",
+    "nome": "Dunsparce",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/204.png"
+  },
+  {
+    "id": "0205",
+    "nome": "Gligar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/205.png"
+  },
+  {
+    "id": "0206",
+    "nome": "Steelix",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/206.png"
+  },
+  {
+    "id": "0207",
+    "nome": "Snubbull",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/207.png"
+  },
+  {
+    "id": "0208",
+    "nome": "Granbull",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/208.png"
+  },
+  {
+    "id": "0209",
+    "nome": "Qwilfish",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/209.png"
+  },
+  {
+    "id": "0210",
+    "nome": "Scizor",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/210.png"
+  },
+  {
+    "id": "0211",
+    "nome": "Shuckle",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/211.png"
+  },
+  {
+    "id": "0212",
+    "nome": "Heracross",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/212.png"
+  },
+  {
+    "id": "0213",
+    "nome": "Sneasel",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/213.png"
+  },
+  {
+    "id": "0214",
+    "nome": "Teddiursa",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/214.png"
+  },
+  {
+    "id": "0215",
+    "nome": "Ursaring",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/215.png"
+  },
+  {
+    "id": "0216",
+    "nome": "Slugma",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/216.png"
+  },
+  {
+    "id": "0217",
+    "nome": "Magcargo",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/217.png"
+  },
+  {
+    "id": "0218",
+    "nome": "Swinub",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/218.png"
+  },
+  {
+    "id": "0219",
+    "nome": "Piloswine",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/219.png"
+  },
+  {
+    "id": "0220",
+    "nome": "Corsola",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/220.png"
+  },
+  {
+    "id": "0221",
+    "nome": "Remoraid",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/221.png"
+  },
+  {
+    "id": "0222",
+    "nome": "Octillery",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/222.png"
+  },
+  {
+    "id": "0223",
+    "nome": "Delibird",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/223.png"
+  },
+  {
+    "id": "0224",
+    "nome": "Mantine",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/224.png"
+  },
+  {
+    "id": "0225",
+    "nome": "Skarmory",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/225.png"
+  },
+  {
+    "id": "0226",
+    "nome": "Houndour",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/226.png"
+  },
+  {
+    "id": "0227",
+    "nome": "Houndoom",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/227.png"
+  },
+  {
+    "id": "0228",
+    "nome": "Kingdra",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/228.png"
+  },
+  {
+    "id": "0229",
+    "nome": "Phanpy",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/229.png"
+  },
+  {
+    "id": "0230",
+    "nome": "Donphan",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/230.png"
+  },
+  {
+    "id": "0231",
+    "nome": "Porygon2",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/231.png"
+  },
+  {
+    "id": "0232",
+    "nome": "Stantler",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/232.png"
+  },
+  {
+    "id": "0233",
+    "nome": "Smeargle",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/233.png"
+  },
+  {
+    "id": "0234",
+    "nome": "Tyrogue",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/234.png"
+  },
+  {
+    "id": "0235",
+    "nome": "Hitmontop",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/235.png"
+  },
+  {
+    "id": "0236",
+    "nome": "Smoochum",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/236.png"
+  },
+  {
+    "id": "0237",
+    "nome": "Elekid",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/237.png"
+  },
+  {
+    "id": "0238",
+    "nome": "Magby",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/238.png"
+  },
+  {
+    "id": "0239",
+    "nome": "Miltank",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/239.png"
+  },
+  {
+    "id": "0240",
+    "nome": "Blissey",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/240.png"
+  },
+  {
+    "id": "0241",
+    "nome": "Raikou",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/241.png"
+  },
+  {
+    "id": "0242",
+    "nome": "Entei",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/242.png"
+  },
+  {
+    "id": "0243",
+    "nome": "Suicune",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/243.png"
+  },
+  {
+    "id": "0244",
+    "nome": "Larvitar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/244.png"
+  },
+  {
+    "id": "0245",
+    "nome": "Pupitar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/245.png"
+  },
+  {
+    "id": "0246",
+    "nome": "Tyranitar",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/246.png"
+  },
+  {
+    "id": "0247",
+    "nome": "Lugia",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/247.png"
+  },
+  {
+    "id": "0248",
+    "nome": "Ho-Oh",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/248.png"
+  },
+  {
+    "id": "0249",
+    "nome": "Celebi",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/249.png"
+  },
+  {
+    "id": "0250",
+    "nome": "Treecko",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/250.png"
+  },
+  {
+    "id": "0251",
+    "nome": "Grovyle",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/251.png"
+  },
+  {
+    "id": "0252",
+    "nome": "Sceptile",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/252.png"
+  },
+  {
+    "id": "0253",
+    "nome": "Torchic",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/253.png"
+  },
+  {
+    "id": "0254",
+    "nome": "Combusken",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/254.png"
+  },
+  {
+    "id": "0255",
+    "nome": "Blaziken",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/255.png"
+  },
+  {
+    "id": "0256",
+    "nome": "Mudkip",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/256.png"
+  },
+  {
+    "id": "0257",
+    "nome": "Marshtomp",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/257.png"
+  },
+  {
+    "id": "0258",
+    "nome": "Swampert",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/258.png"
+  },
+  {
+    "id": "0259",
+    "nome": "Poochyena",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/259.png"
+  },
+  {
+    "id": "0260",
+    "nome": "Mightyena",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/260.png"
+  },
+  {
+    "id": "0261",
+    "nome": "Zigzagoon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/261.png"
+  },
+  {
+    "id": "0262",
+    "nome": "Linoone",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/262.png"
+  },
+  {
+    "id": "0263",
+    "nome": "Wurmple",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/263.png"
+  },
+  {
+    "id": "0264",
+    "nome": "Silcoon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/264.png"
+  },
+  {
+    "id": "0265",
+    "nome": "Beautifly",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/265.png"
+  },
+  {
+    "id": "0266",
+    "nome": "Cascoon",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/266.png"
+  },
+  {
+    "id": "0267",
+    "nome": "Dustox",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/267.png"
+  },
+  {
+    "id": "0268",
+    "nome": "Lotad",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/268.png"
+  },
+  {
+    "id": "0269",
+    "nome": "Lombre",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/269.png"
+  },
+  {
+    "id": "0270",
+    "nome": "Ludicolo",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/270.png"
+  },
+  {
+    "id": "0271",
+    "nome": "Seedot",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/271.png"
+  },
+  {
+    "id": "0272",
+    "nome": "Nuzleaf",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/272.png"
+  },
+  {
+    "id": "0273",
+    "nome": "Shiftry",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/273.png"
+  },
+  {
+    "id": "0274",
+    "nome": "Taillow",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/274.png"
+  },
+  {
+    "id": "0275",
+    "nome": "Swellow",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/275.png"
+  },
+  {
+    "id": "0276",
+    "nome": "Wingull",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/276.png"
+  },
+  {
+    "id": "0277",
+    "nome": "Pelipper",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/277.png"
+  },
+  {
+    "id": "0278",
+    "nome": "Ralts",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/278.png"
+  },
+  {
+    "id": "0279",
+    "nome": "Kirlia",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/279.png"
+  },
+  {
+    "id": "0280",
+    "nome": "Gardevoir",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/280.png"
+  },
+  {
+    "id": "0281",
+    "nome": "Surskit",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/281.png"
+  },
+  {
+    "id": "0282",
+    "nome": "Masquerain",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/282.png"
+  },
+  {
+    "id": "0283",
+    "nome": "Shroomish",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/283.png"
+  },
+  {
+    "id": "0284",
+    "nome": "Breloom",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/284.png"
+  },
+  {
+    "id": "0285",
+    "nome": "Slakoth",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/285.png"
+  },
+  {
+    "id": "0286",
+    "nome": "Vigoroth",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/286.png"
+  },
+  {
+    "id": "0287",
+    "nome": "Slaking",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/287.png"
+  },
+  {
+    "id": "0288",
+    "nome": "Nincada",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/288.png"
+  },
+  {
+    "id": "0289",
+    "nome": "Ninjask",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/289.png"
+  },
+  {
+    "id": "0290",
+    "nome": "Shedinja",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/290.png"
+  },
+  {
+    "id": "0291",
+    "nome": "Whismur",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/291.png"
+  },
+  {
+    "id": "0292",
+    "nome": "Loudred",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/292.png"
+  },
+  {
+    "id": "0293",
+    "nome": "Exploud",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/293.png"
+  },
+  {
+    "id": "0294",
+    "nome": "Makuhita",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/294.png"
+  },
+  {
+    "id": "0295",
+    "nome": "Hariyama",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/295.png"
+  },
+  {
+    "id": "0296",
+    "nome": "Azurill",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/296.png"
+  },
+  {
+    "id": "0297",
+    "nome": "Nosepass",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/297.png"
+  },
+  {
+    "id": "0298",
+    "nome": "Skitty",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/298.png"
+  },
+  {
+    "id": "0299",
+    "nome": "Delcatty",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/299.png"
+  },
+  {
+    "id": "0300",
+    "nome": "Sableye",
+    "tipos": [],
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/300.png"
   }
+  
 ]
