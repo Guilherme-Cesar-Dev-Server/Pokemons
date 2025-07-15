@@ -3,13 +3,13 @@
     "id": "0001",
     "nome": "Bulbasaur",
     "tipos": ["Grass", "Poison"],
-    "imagem": "../img/pokemons/001.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
   },
   {
     "id": "0002",
     "nome": "Ivysaur",
     "tipos": ["Grass", "Poison"],
-    "imagem": "../img/pokemons/002.png"
+    "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
   },
   {
     "id": "0003",
