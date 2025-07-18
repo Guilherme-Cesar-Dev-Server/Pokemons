@@ -2,7 +2,7 @@
     {
         "nome":"Ash Ketchum",
         "nomereal":"サトシ, Satoshi",
-        "imagem":"../frondend/img/treinadores/AshKetchum.png",
+        "imagem":"../frontend/img/treinadores/AshKetchum.png",
         "regiao":"Kanto"
     },
     {}
