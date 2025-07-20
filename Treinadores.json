@@ -2,8 +2,13 @@
     {
         "nome":"Ash Ketchum",
         "nomereal":"サトシ, Satoshi",
-        "imagem":"../img/treinadores/AshKetchum.png",
+        "imagem":"https://github.com/Guilherme-Cesar-Dev-Server/Pokemons/img/treinadores/AshKetchum.png",
         "regiao":"Kanto"
     },
-    {}
+    {
+        "nome":"",
+        "nomereal":"",
+        "imagem":"",
+        "regiao":""
+    }
 ]
