@@ -3,6 +3,7 @@
     "id": "0001",
     "nome": "Thiefox",
     "criador": "Poizon",
+    "link": "https://www.youtube.com/@Poizoun",
     "tipos": ["Grass","Dark"],
     "imagem": "https://raw.githubusercontent.com/Guilherme-Cesar-Dev-Server/Pokemons/refs/heads/main/img/pokemonsAmigos/001.png"
   },
@@ -10,6 +11,7 @@
     "id": "0002",
     "nome": "Thiefox",
     "criador": "Poizon",
+    "link": "https://www.youtube.com/@Poizoun",
     "tipos": ["Grass","Dark"],
     "imagem": "https://raw.githubusercontent.com/Guilherme-Cesar-Dev-Server/Pokemons/refs/heads/main/img/pokemonsAmigos/002.png"
   },
@@ -17,6 +19,7 @@
     "id": "0000",
     "nome": "0000",
     "criador": "0000",
+    "link": "0000",
     "tipos": ["0000"],
     "imagem": "0000"
   }
