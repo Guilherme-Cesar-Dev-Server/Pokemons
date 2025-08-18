@@ -420,182 +420,182 @@
   },
   {
     "id": "0071",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Victreebel",
+    "tipos": ["Grass", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png"
   },
   {
     "id": "0072",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Tentacool",
+    "tipos": ["Water", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png"
   },
   {
     "id": "0073",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Tentacruel",
+    "tipos": ["Water", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png"
   },
   {
     "id": "0074",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Geodude",
+    "tipos": ["Rock", "Ground"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png"
   },
   {
     "id": "0075",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Graveler",
+    "tipos": ["Rock", "Ground"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png"
   },
   {
     "id": "0076",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Golem",
+    "tipos": ["Rock", "Ground"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png"
   },
   {
     "id": "0077",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Ponyta",
+    "tipos": ["Fire"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png"
   },
   {
     "id": "0078",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Rapidash",
+    "tipos": ["Fire"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png"
   },
   {
     "id": "0079",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Slowpoke",
+    "tipos": ["Water", "Psychic"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png"
   },
   {
     "id": "0080",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Slowbro",
+    "tipos": ["Water", "Psychic"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png"
   },
   {
     "id": "0081",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Magnemite",
+    "tipos": ["Electric", "Steel"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png"
   },
   {
     "id": "0082",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Magneton",
+    "tipos": ["Electric", "Steel"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png"
   },
   {
     "id": "0083",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Farfetch'd",
+    "tipos": ["Normal", "Flying"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png"
   },
   {
     "id": "0084",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Doduo",
+    "tipos": ["Normal", "Flying"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png"
   },
   {
     "id": "0085",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Dodrio",
+    "tipos": ["Normal", "Flying"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png"
   },
   {
     "id": "0086",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Seel",
+    "tipos": ["Water"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png"
   },
   {
     "id": "0087",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Dewgong",
+    "tipos": ["Water", "Ice"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png"
   },
   {
     "id": "0088",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Grimer",
+    "tipos": ["Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png"
   },
   {
     "id": "0089",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Muk",
+    "tipos": ["Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png"
   },
   {
     "id": "0090",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Shellder",
+    "tipos": ["Water"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png"
   },
   {
     "id": "0091",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Cloyster",
+    "tipos": ["Water", "Ice"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png"
   },
   {
     "id": "0092",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Gastly",
+    "tipos": ["Ghost", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png"
   },
   {
     "id": "0093",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Haunter",
+    "tipos": ["Ghost", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png"
   },
   {
     "id": "0094",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Gengar",
+    "tipos": ["Ghost", "Poison"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png"
   },
   {
     "id": "0095",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Onix",
+    "tipos": ["Rock", "Ground"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png"
   },
   {
     "id": "0096",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Drowzee",
+    "tipos": ["Psychic"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png"
   },
   {
     "id": "0097",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Hypno",
+    "tipos": ["Psychic"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png"
   },
   {
     "id": "0098",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Krabby",
+    "tipos": ["Water"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png"
   },
   {
     "id": "0099",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Kingler",
+    "tipos": ["Water"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png"
   },
   {
     "id": "0100",
-    "nome": "0000",
-    "tipos": ["0000"],
+    "nome": "Voltorb",
+    "tipos": ["Electric"],
     "imagem": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png"
   },
   {
